@@ -2,10 +2,11 @@
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
+DOMAIN-SUFFIX,godetia.xyz
 DOMAIN-SUFFIX,ssltd.club
 DOMAIN-SUFFIX,eveonline.com.com
 DOMAIN-SUFFIX,evetech.net
-DOMAIN-SUFFIX,godetia.xyz
+
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
